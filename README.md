@@ -41,8 +41,8 @@ This is the sixth challenge of the React Native trail of [Ignite](https://rocket
 The 6th challenge was an app created to list the online streamers followed by the user, using Twitch OAuth to sign in.
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/53796370/128650228-9c32d932-c6c4-4a08-9338-1ade654c6a87.png" alt="Home" width="270px">
   <img src="https://user-images.githubusercontent.com/53796370/128650229-00e6a513-3b60-4563-8349-7a94dee08a64.png" alt="Sign In" width="270px">
+  <img src="https://user-images.githubusercontent.com/53796370/128650228-9c32d932-c6c4-4a08-9338-1ade654c6a87.png" alt="Home" width="270px">
 </div>
 
 <br>
