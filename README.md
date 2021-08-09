@@ -28,7 +28,7 @@
 
 <br>
 
-## 🚀 Ignite Challenge #06 | SavePass   
+## 🚀 Ignite Challenge #06 | stream.data   
 This is the sixth challenge of the React Native trail of [Ignite](https://rocketseat.com.br/ignite).
 <br>
 
